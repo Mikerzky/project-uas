@@ -1,12 +1,9 @@
 Cara menjalankan Proyek NewsPortal
 
-1. Unduh file zip
-2. Ekstrak file dan salin folder portal berita
-3.Paste di dalam direktori root (untuk xampp xamp / htdocs, untuk wampp / www, lampu fpr var / www / html)
-4. Buat database dengan nama newsportal
-5. Impor newsportal.sql file (diberikan di dalam paket zip di folder file sql)
-6.jalankan skrip http://localhost/newsportal (frontend)
-7. Untuk panel admin http://localhost/newsporta/admin
+1. Buat database dengan nama newsportal
+2. Impor newsportal.sql file (diberikan di dalam paket zip di folder file sql)
+3.jalankan skrip http://localhost/newsportal (frontend)
+4. Untuk panel admin http://localhost/newsporta/admin
 
 
 Untuk admin:
